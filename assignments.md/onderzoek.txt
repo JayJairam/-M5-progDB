@@ -1,0 +1,8 @@
+select
+- geeft een verzameling rijen of records terug uit één of meer tabellen van een database
+delete
+- De DELETE-instructie wordt gebruikt om bestaande records in een tabel te verwijderen
+insert
+- Met het INSERT statement kan je één of meerdere rijen toevoegen. 
+update
+- Met de instructie UPDATE worden gegevens in een tabel bijgewerkt. Hiermee kunt u de waarden in een of meer kolommen van een enkele rij of meerdere rijen wijzigen.
